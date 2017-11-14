@@ -1,0 +1,168 @@
+html {
+
+   font-size: 10px;
+   font-family: sans-serif;
+}
+
+
+.topnav {
+    background-color: #4682B4;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    
+    color: white;
+    
+    padding: 14px 16px;
+    
+    font-size: 17px;
+}
+.topnav h1{
+     float: left;
+     color: white;
+margin:10px;
+font-size: 17px;
+}
+hr{
+    
+    border: 2px grey groove;
+    margin-left: 110px;   
+}
+body{
+   
+    background-color: #F0F8FF;
+}
+.CON{
+padding: 20px;
+background-color: #B0C4DE;
+
+
+}
+.para{
+  padding: 20px;
+  background-color: #B0C4DE;
+   overflow: auto;
+}
+
+.form{
+    float:left;
+}
+.about{
+    float:right;
+}
+.PORT h1{
+    text-align: center;
+    
+     font-size: 20px;
+
+}
+.PORT {
+    background: url("../portfolio/slider-bg.jpg");
+    background-position: 50% 94px;
+  width: 100%;
+  display: block;
+  position: relative;
+  overflow: visible;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #F0F8FF;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  padding: 100px 0;
+    
+
+}
+.PORT hr {
+    
+    border: 2px grey groove;
+    margin: auto; 
+width: 20%;
+
+}
+.contact h2{
+    text-align: center;
+    
+     font-size: 20px;
+
+}
+
+.contact hr {
+    
+    border: 2px grey groove;
+    margin: auto; 
+width: 20%;
+
+}
+
+
+.foot{
+    background-color:#4682B4;
+    text-align: center;
+}
+.desc{
+    float: right;
+}
+.roundedImage{
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50%;
+    width:150px;
+    height:150px;
+   float: right;
+}
+.description{
+    float: left;
+}
+
+.clearfix {
+
+    display: inline-block;
+    width: 100%
+}
+.float-left {
+    background-color: #F0F8FF;
+   float: left;
+   width: 50%;
+}
+.portfolio-item{
+    float: left;
+   width: 50%;
+   text-align: center;
+
+}
+.container-form input {
+    border: none;
+    border-bottom: 2px solid grey;
+    background-color: transparent;
+    margin-top: 20px;
+    
+}
+.container-form button {
+    border: none;
+    border-bottom: 2px solid grey;
+    background-color: transparent;
+    margin-top: 20px;
+    
+}
+.container-form textarea {
+    border: none;
+    border-bottom: 2px solid grey;
+    background-color: transparent;
+    margin-top: 20px;
+
+}
+.description p {
+    font-style: oblique;
+    font-size: 20px;
+}

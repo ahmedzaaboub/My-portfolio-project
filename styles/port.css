@@ -1,0 +1,86 @@
+
+
+.img-fluid{
+float: right;
+
+
+}
+
+.aboutsection{
+	
+margin-bottom: 30px;
+display: block;
+
+background-color: #f8f9fa;
+
+
+}
+.experience{
+	margin-bottom: 30px;
+	display: block;
+	background-color: #f8f9fa;
+}
+.primary{
+	background-color: white;
+
+}
+.section-inner{
+	margin-bottom: 30px;
+ background-color: #f8f9fa;   
+}
+.list-unstyled{
+	margin-bottom: 30px;
+ background-color: #f8f9fa; 
+}
+.secondary {
+	background-color: white;
+}
+
+.skills .skillset .level-bar-inner {
+    height: 15px;
+    background: #66cb8c;
+}
+.skills .skillset .level-title .level-label {
+    color: #ccd1d6;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Lato", arial, sans-serif;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.item{
+	position: relative;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+h2,h3,h4,h5,h6{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.education .item .university {
+    font-family: "Lato", arial, sans-serif;
+    font-size: 13px;
+    color: #999;
+    font-weight: 600;
+    padding-left: 25px;
+}
+
+.education .item .title {
+    font-size: 16px;
+    margin-top: 0;
+}
+
+
+
+footer .container {
+	max-width: 1750px;
+}
+
+
+
+
+
